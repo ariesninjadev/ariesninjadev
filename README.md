@@ -22,6 +22,6 @@
 ---
 
 <div align="center">
-    <img alt="stats" src="https://github-readme-stats-rouge-nine-19.vercel.app/api?username=ariesninjadev&layout=compact&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark&exclude_repo=github-readme-stats"/>
-    <img alt="top-langs" src="https://github-readme-stats-rouge-nine-19.vercel.app/api/top-langs/?username=ariesninjadev&layout=compact&hide_border=true&theme=github_dark&exclude_repo=github-readme-stats"/>
+    <img alt="stats" src="https://rmsts.vercel.app/api?username=ariesninjadev&layout=compact&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark&exclude_repo=github-readme-stats"/>
+    <img alt="top-langs" src="https://rmsts.vercel.app/api/top-langs/?username=ariesninjadev&layout=compact&hide_border=true&theme=github_dark&exclude_repo=github-readme-stats"/>
 </div>
