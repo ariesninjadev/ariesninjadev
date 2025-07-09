@@ -5,7 +5,6 @@
 
 [![Python Badge](https://img.shields.io/badge/Python-%23366c9c?style=flat&logo=python&logoColor=%23ffffff&labelColor=%23353537)]()
 [![JS Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=%23ffffff&labelColor=%23353537)]()
-[![C++ Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=cplusplus&logoColor=%23ffffff&labelColor=%23353537)]()
 [![HTML Badge](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=%23ffffff&labelColor=%23353537)]()
 [![Docker Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=%23ffffff&labelColor=%23353537)]()
 [![MQTT Badge](https://img.shields.io/badge/MQTT-%23660066?style=flat&logo=mqtt&logoColor=%23ffffff&labelColor=%23353537)](https://mqtt.org)
@@ -18,7 +17,7 @@
 
 - I'm attending Jesuit High School, studying Cryptography and AI as a member of the class of 2026!
 - I have a passion for programming, robotics, and automation.
-- I'm probably busy with school, but feel free to reach out to me via email if you want to connect!
+- I'm probably busy with school and/or work, but feel free to reach out to me via email if you want to connect!
 
 ---
 
