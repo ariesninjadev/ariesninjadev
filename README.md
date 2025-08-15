@@ -1,4 +1,4 @@
-# Hi! I'm Aries, a developer from Oregon.
+# Hi! I'm pvty, a developer from Oregon.
 
 [![My Website](https://img.shields.io/website?url=https%3A%2F%2Fninjam.us&up_message=Currently%20Online&up_color=%23029020&down_message=Currently%20Offline&down_color=%23EA0000&style=for-the-badge&label=My%20Website&labelColor=%23353537)](https://ninjam.us)
 [![GitHub followers](https://img.shields.io/github/followers/ariesninjadev?style=for-the-badge&logo=github&logoColor=%23ffffff&logoSize=auto&labelColor=%23353537&color=%2358688d)](https://github.com/Jurassic001?tab=followers)
