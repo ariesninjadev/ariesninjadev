@@ -15,7 +15,7 @@
 [![Windows Badge](https://img.shields.io/badge/Windows-%2300a1f1?style=flat&label=OS&labelColor=%23353537)]()
 [![VSCode Badge](https://img.shields.io/badge/VSCode-%230078d7?style=flat&label=Editor&labelColor=%23353537)]()
 
-- I'm attending Berkley, studying Cryptography and AI as a member of the undergrad class of 2028!
+- I'm studying Cryptography and AI!
 - I have a passion for Minecraft, robotics, and automation.
 - Feel free to reach out to me via email if you want to connect!
   - Available for collaboration summer/fall 2025!
